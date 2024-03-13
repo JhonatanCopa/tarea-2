@@ -1,0 +1,73 @@
+*{
+    background-color: beige;
+    /*JHONATAN MAGDIEL COPA HUAYTA CI: E-11602939*/
+}
+.principal{
+    background-color:  white;
+    padding: 20px;
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+    border: 5px solid black;
+    justify-content: space-around;  
+}
+.contenedor1{
+    background-color:  white;
+    padding: 20px;
+    display: flex;
+    border: 5px solid black;
+    width: 30%;
+    margin: 5px;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+   }
+.contenedor2{
+    background-color:  white;
+    padding: 20px;
+    display: flex;
+    border: 5px solid black;
+    width: 40%;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.contenedor3{
+    background-color:  white;
+    padding: 20px;
+    display: flex;
+    border: 5px solid black;
+    width: 30%;
+    margin: 5px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.caja1{
+    background-color:  white;
+    padding: 20px;
+    border: 5px solid red;
+    width: 20px;
+    height: 80px;
+}
+.caja2{
+    background-color:  white;
+    padding: 20px;
+    border: 5px solid green;
+    width: 20px;
+    height: 20px;
+}
+.caja3{
+    background-color:  white;
+    padding: 20px;
+    border: 5px solid yellow;
+    width: 80px;
+    height: 20px;
+}
+.caja4{
+    background-color:  white;
+    padding: 20px;
+    border: 5px solid yellow;
+    width: 20px;
+    height: 80px;
+}
